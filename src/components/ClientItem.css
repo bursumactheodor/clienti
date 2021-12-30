@@ -1,0 +1,10 @@
+
+.client-item button {
+    color:red;
+    height: 20px;
+    width:200px;
+}
+.client-item  h2,h3,p,img{
+    margin-top:10px;
+    margin-bottom:10px;
+}

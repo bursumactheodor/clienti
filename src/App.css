@@ -1,0 +1,21 @@
+.app {
+  min-height: 100vh;
+  margin-left: 50px;
+}
+.app h1 {
+  margin-top: 0px;
+}
+.app button{
+  color:navy;
+  margin-left: 10px;
+}
+ #culori {
+  display:flex;
+  flex-direction: column;
+  
+}
+#culori label, input {
+  color :navy;
+  margin-left: 10px;
+  margin-top: 20px;
+}

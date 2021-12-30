@@ -1,0 +1,17 @@
+.client-add-form h2, label {
+    color:blue;
+    
+}
+
+.client-add-form  input {
+    color:blue;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.client-add-form{
+    display:flex;
+    flex-direction: column;
+    width: 60%;
+    margin-left: 10px;
+    margin-bottom: 50px;
+}
